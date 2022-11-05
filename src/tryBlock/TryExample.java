@@ -7,12 +7,12 @@ public class TryExample {
 		try {
 			System.out.println("without catch block");
 		}
-		/*catch(Exception e) {
+		catch(Exception e) {
 			System.out.println(e);
 		}
 		finally {
 			System.out.println("test finally with only try and finally block");
-		}*/
+		}
 	}
 
 }
